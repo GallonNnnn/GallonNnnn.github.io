@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /michi/audio/
+
+Sitemap: https://gallonnnnn.github.io/michi/sitemap.xml
